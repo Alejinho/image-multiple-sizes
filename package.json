@@ -1,0 +1,20 @@
+{
+  "name": "image-multiple-sizes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "file-type": "^4.1.0",
+    "lwip-promise": "^0.1.0",
+    "node-async-loop": "^1.2.2",
+    "randomstring": "^1.1.5"
+  },
+  "devDependencies": {
+    "jscs": "^3.0.7"
+  }
+}
